@@ -3,7 +3,7 @@
 <html>
 <head>
 <title>PHP insertion</title>
-<link href="css/insert.css" rel="stylesheet">
+<link href="insert.css" rel="stylesheet">
 </head>
 <body>
 <div class="maindiv">
